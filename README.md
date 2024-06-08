@@ -1,3 +1,3 @@
 # Demo-Website
 Just a Landing Page of website
-Author- Nishank Jain
+Author- Nishank Jain (NJ)
